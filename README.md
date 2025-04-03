@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tunde! <br/><a href="https://github.com/sonofbossman">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Tunde! <br/><a href="#">IT Support Specialist</a> | <a href="#">Application Manager</a> | <a href="https://github.com/sonofbossman">Backend Engineer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
