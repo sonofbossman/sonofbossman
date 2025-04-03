@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tunde! <br/><a href="#">IT Support Specialist</a> | <a href="#">Application Manager</a> | <a href="https://github.com/sonofbossman">Backend Engineer</a></h1>
+<h1>Hi, I'm Tunde! <br/><a href="https://#">IT Support Specialist</a> | <a href="https://#">Application Manager</a> | <a href="https://github.com/sonofbossman">Backend Engineer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -12,10 +12,10 @@
 [<img align="left" alt="sonofbossman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sonofbossman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
+[twitter]: https://x.com/EniolaAkingbade
 [youtube]: https://www.youtube.com/@akingbadeeniola1686
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[instagram]: #
+[linkedin]: #
 
 <!--
 **sonofbossman/sonofbossman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
