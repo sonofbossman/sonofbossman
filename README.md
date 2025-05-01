@@ -50,9 +50,11 @@ Others:        REST APIs, Session Management, Authentication, Linux CLI
 
 ### 🤝 Let's Connect
 I’m open to opportunities in backend engineering, application support, and fintech development. If you’re looking for someone with deep knowledge of financial systems, application reliability, and backend optimization, let’s collaborate!
-
-📧 akingbadeeniola452@gmail.com | 🌐 [Portfolio](https://bit.ly/tundeakingbade) | 💼 [LinkedIn](https://www.linkedin.com/in/tunde-akingbade-a2bb9635a)
+- 📫 Email: [akingbadeeniola452@gmail.com](mailto:akingbadeeniola452@gmail.com)  
+- 💼 LinkedIn: [Tunde Akingbade](https://www.linkedin.com/in/tunde-akingbade-a2bb9635a)  
+- 🌐 Portfolio: [tundeakingbade.dev](https://bit.ly/tundeakingbade)  
+- 📺 YouTube: [@akingbadeeniola1686](https://www.youtube.com/@akingbadeeniola1686)
 
 ---
 
-<i>"I’d be delighted to put my backend development skills to work and help your team build robust infrastructure and financial tools that scale."</i>
+_😎 Thanks for stopping by! Let’s build something amazing together._
