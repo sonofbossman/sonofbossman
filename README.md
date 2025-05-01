@@ -42,8 +42,11 @@ Others:        REST APIs, Session Management, Authentication, Linux CLI
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonofbossman&show_icons=true&theme=tokyonight" alt="Tunde's GitHub stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonofbossman&show_icons=true&theme=github_dark&cache_seconds=3600" alt="Tunde's GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonofbossman&layout=compact&theme=github_dark&cache_seconds=3600" alt="Top Languages" />
 </p>
 
 ---
