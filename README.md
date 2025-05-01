@@ -34,7 +34,7 @@ I once led a team that restored banking services to a region-wide ATM outage—b
 Languages:     JavaScript (Node.js), Python, HTML, CSS
 Frameworks:    Express.js, Django, Bootstrap
 Databases:     MySQL, MongoDB
-Tools:         Git, Postman, VSCode
+Tools:         Git, Postman, VSCode, Bash Shell (WSL2, Ubuntu)
 Others:        REST APIs, Session Management, Authentication, Linux CLI
 ```
 
