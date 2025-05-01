@@ -26,7 +26,7 @@ I aim to become a leading engineer building secure, scalable, and high-availabil
 
 ### ⚡ Fun Fact
 
-I can explain ATM monitoring tools to you in plain English… or over jollof rice and suya 😄.
+I can explain ATM systems to you in plain English… or over jollof rice and suya 😄.
 
 ---
 
