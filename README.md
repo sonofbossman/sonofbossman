@@ -24,8 +24,9 @@ I aim to become a leading engineer building secure, scalable, and high-availabil
 - Automation tools for infrastructure management
 - Real-time backend systems
 
-### 💡 Fun Fact
-I once led a team that restored banking services to a region-wide ATM outage—before lunch.
+### ⚡ Fun Fact
+
+I can explain ATM monitoring tools to you in plain English… or over jollof rice and suya 😄.
 
 ---
 
