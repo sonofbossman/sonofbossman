@@ -31,22 +31,30 @@ I can explain ATM systems to you in plain English… or over jollof rice and suy
 ---
 
 ### 🛠️ Tech Stack
-```text
-Languages:     JavaScript (Node.js), Python, HTML, CSS
-Frameworks:    Express.js, Django, Bootstrap
-Databases:     MySQL, MongoDB
-Tools:         Git, GitHub, Postman, VSCode, Bash Shell (WSL2, Ubuntu)
-Others:        REST APIs, Session Management, Authentication, Linux CLI
-```
 
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white" alt="Bash Shell" />
+  <img src="https://img.shields.io/badge/WSL2-4EAA25?style=flat&logo=linux&logoColor=white" alt="WSL2" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</p>
 ---
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonofbossman&show_icons=true&theme=github_dark&cache_seconds=3600" alt="Tunde's GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonofbossman&layout=compact&theme=github_dark&cache_seconds=3600" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sonofbossman&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonofbossman&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
