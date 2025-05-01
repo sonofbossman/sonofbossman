@@ -49,12 +49,12 @@ I can explain ATM systems to you in plain English… or over jollof rice and suy
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
 </p>
----
+
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonofbossman&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonofbossman&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sonofbossman&show_icons=true&theme=github_dark&cache_seconds=3600" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonofbossman&layout=compact&theme=github_dark&cache_seconds=3600" alt="Top Languages" />
 </p>
 
 ---
