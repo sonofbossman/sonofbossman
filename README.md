@@ -1,33 +1,57 @@
-<h1>Hi, I'm Tunde! <br/><a href="https://#">IT Support Specialist</a> | <a href="https://#">Application Manager</a> | <a href="https://github.com/sonofbossman">Backend Engineer</a></h1>
+<!-- GitHub Profile README Template for Tunde Akingbade -->
+<h1 align="center">Hi 👋, I'm Tunde Akingbade</h1>
+<h3 align="center">Backend Developer | Financial Systems Enthusiast | Application Support Specialist</h3>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<p align="center">
+  <a href="mailto:akingbadeeniola452@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tunde-akingbade-a2bb9635a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://bit.ly/tundeakingbade"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=for-the-badge" /></a>
+</p>
 
+---
 
+### 👨‍💻 About Me
+I'm a passionate backend developer with a solid foundation in banking and financial technology. I currently serve as an Application Manager at Access Bank Plc, where I manage ATM network systems, deploy critical software updates, and troubleshoot infrastructure issues to support 3,000+ terminals.
 
+My journey into software engineering began with a curiosity for how things work behind the scenes. Working with banking applications exposed me to the complexities of backend systems, sparking a passion that led me to explore Node.js, Express, MongoDB, and MySQL.
 
-<h2> 🤳 Connect with me:</h2>
+### 🚀 My Vision
+I aim to become a leading engineer building secure, scalable, and high-availability applications that power financial services and digital transformation in Africa and beyond.
 
-[<img align="left" alt="sonofbossman | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="sonofbossman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="sonofbossman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sonofbossman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### 💼 What I Love Working On
+- Fintech applications
+- Scalable RESTful APIs
+- Automation tools for infrastructure management
+- Real-time backend systems
 
-[twitter]: https://x.com/EniolaAkingbade
-[youtube]: https://www.youtube.com/@akingbadeeniola1686
-[instagram]: #
-[linkedin]: #
+### 💡 Fun Fact
+I once led a team that restored banking services to a region-wide ATM outage—before lunch.
 
-<!--
-**sonofbossman/sonofbossman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+```text
+Languages:     JavaScript (Node.js), Python, HTML, CSS
+Frameworks:    Express.js, Django, Bootstrap
+Databases:     MySQL, MongoDB
+Tools:         Git, Postman, VSCode
+Others:        REST APIs, Session Management, Authentication, Linux CLI
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonofbossman&show_icons=true&theme=tokyonight" alt="Tunde's GitHub stats" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+I’m open to opportunities in backend engineering, application support, and fintech development. If you’re looking for someone with deep knowledge of financial systems, application reliability, and backend optimization, let’s collaborate!
+
+📧 akingbadeeniola452@gmail.com | 🌐 [Portfolio](https://bit.ly/tundeakingbade) | 💼 [LinkedIn](https://www.linkedin.com/in/tunde-akingbade-a2bb9635a)
+
+---
+
+<i>"I’d be delighted to put my backend development skills to work and help your team build robust infrastructure and financial tools that scale."</i>
