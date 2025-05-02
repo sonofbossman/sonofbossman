@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a passionate backend developer with a solid foundation in banking and financial technology. I currently serve as an Application Manager at Access Bank Plc, where I manage core Bankworld ATM application and monitoring systems, deploy critical software updates, and troubleshoot infrastructure issues to support 3,000+ terminals.
+I'm a passionate backend developer with a solid foundation in banking and financial technology. I currently serve as an Application Manager, where I manage core Bankworld ATM application and monitoring systems, deploy critical software updates, and troubleshoot infrastructure issues to support 3,000+ terminals.
 
 My journey into software engineering began with a curiosity for how things work behind the scenes. Working with banking applications exposed me to the complexities of backend systems, sparking a passion that led me to explore Node.js, Express, MongoDB, and MySQL.
 
