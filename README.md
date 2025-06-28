@@ -1,6 +1,6 @@
 <!-- GitHub Profile README Template for Tunde Akingbade -->
 <h1 align="center">Hi 👋, I'm Tunde Akingbade</h1>
-<h3 align="center">Backend Developer | Financial Systems Enthusiast | Application Support Specialist</h3>
+<h3 align="center">Software Engineer | Financial Systems Enthusiast | Application Support Specialist</h3>
 
 <p align="center">
   <a href="mailto:akingbadeeniola452@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a passionate backend developer with a solid foundation in banking and financial technology. I currently serve as an Application Manager, where I manage core Bankworld ATM application and monitoring systems, deploy critical software updates, and troubleshoot infrastructure issues to support 3,000+ terminals.
+I'm an aspiring software engineer with a solid foundation in banking and financial technology. I currently serve as an Application Manager, where I manage core Bankworld ATM application and monitoring systems, deploy critical software updates, and troubleshoot infrastructure issues to support 3,000+ terminals.
 
 My journey into software engineering began with a curiosity for how things work behind the scenes. Working with banking applications exposed me to the complexities of backend systems, sparking a passion that led me to explore Node.js, Express, MongoDB, and MySQL.
 
@@ -60,7 +60,7 @@ I can explain ATM systems to you in plain English… or over jollof rice and suy
 ---
 
 ### 🤝 Let's Connect
-I’m open to opportunities in backend engineering, application support, and fintech development. If you’re looking for someone with deep knowledge of financial systems, application reliability, and backend optimization, let’s collaborate!
+I’m open to opportunities in backend engineering, application support, and fintech or startup development. If you’re looking for someone with deep knowledge of financial systems, application reliability, and backend optimization, let’s collaborate!
 - 📫 Email: [akingbadeeniola452@gmail.com](mailto:akingbadeeniola452@gmail.com)  
 - 💼 LinkedIn: [Tunde Akingbade](https://www.linkedin.com/in/tunde-akingbade-a2bb9635a)  
 - 🌐 Portfolio: [tundeakingbade.dev](https://bit.ly/tundeakingbade)  
