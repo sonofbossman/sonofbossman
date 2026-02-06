@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:akingbadeeniola452@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tunde-akingbade-a2bb9635a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/tunde-akingbade-a2bb9635a](https://www.linkedin.com/in/tunde-akingbade-55b308216/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://bit.ly/tundeakingbade"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=for-the-badge" /></a>
 </p>
 
